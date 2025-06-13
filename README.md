@@ -2,7 +2,7 @@
 
 The AI Trading Agent Dashboard is an intelligent web-based simulation platform designed to help users explore algorithmic trading strategies powered by Reinforcement Learning (DQN) and LSTM-based price prediction. It combines cutting-edge machine learning models with an intuitive interface to provide insights, visualizations, and performance metrics — all in real time. 📈🤖
 
-🚀 Key Features
+# 🚀 Key Features
 
 📊 Real-time Trading Simulation
 
@@ -28,7 +28,7 @@ Track performance over specific date ranges with visual markers for each agent a
 
 Set your own initial balance to test different trading strategies and financial conditions.
 
-📦 Modular Architecture
+# 📦 Modular Architecture
 
 environment/TradingENV.py - Trading environment logic
 
@@ -38,7 +38,7 @@ environment/LSTM_model.py - LSTM-based price predictor
 
 app.py - Flask web interface
 
-🖼️ Interface Preview
+# 🖼️ Interface Preview
 
 🎛️ Dashboard Simulation Panel
 
